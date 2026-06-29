@@ -78,6 +78,17 @@ python var_analysis.py
 
 
 ---
+## 🗂️ Project Structure
+
+```text
+Market_Risk_Analysis/
+│
+├── var_analysis.py        # Main analysis script
+├── README.md              # Project documentation
+├── requirements.txt       # Dependencies
+├── plot1_distribution.png # Return distribution & VaR
+└── plot2_backtesting.png  # Backtesting results
+```
 
 ## 🔑 Key Concepts
 
